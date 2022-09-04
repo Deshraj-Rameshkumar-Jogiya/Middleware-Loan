@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "customerName": "Deshraj",
+        "phoneNumber": 8145544750,
+        "address": "Tempe, Arizona",
+        "loanAmount": 5000,
+        "interest": 3,
+        "loanTermYears": 85,
+        "loanType": "Student Loan",
+        "description": "Student Loan for M.S IT at ASU"
+    }
+    ,
+    {
+        "id": 2,
+        "customerName": "Ishan",
+        "phoneNumber": 7765655250,
+        "address": "Junagadh, India",
+        "loanAmount": 70000,
+        "interest": 6,
+        "loanTermYears": 60,
+        "loanType": "Home Loan",
+        "description": "Buying an Bunglow in Junagadh"
+    },
+    {
+        "id": 3,
+        "customerName": "Surya",
+        "phoneNumber": 1122545750,
+        "address": "Rajkot, India",
+        "loanAmount": 500000,
+        "interest": 25,
+        "loanTermYears": 17,
+        "loanType": "Car Loan",
+        "description": "Buying a Rolce Royace"
+    },
+    {
+        "id": 4,
+        "customerName": "Shohaib",
+        "phoneNumber": 1011002201,
+        "address": "Chaina",
+        "loanAmount": 600,
+        "interest": 13,
+        "loanTermYears": 48,
+        "loanType": "Business Loan",
+        "description": "For opening a Restaurant "
+    },
+    {
+        "id": 5,
+        "customerName": "Rutvik",
+        "phoneNumber": 2255547550,
+        "address": "Puna, India",
+        "loanAmount": 7500000,
+        "interest": 8,
+        "loanTermYears": 25,
+        "loanType": "Industrial Loan",
+        "description": "For establishing a Dairy Product factory"
+    }
+]
